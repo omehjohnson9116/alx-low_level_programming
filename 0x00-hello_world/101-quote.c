@@ -1,8 +1,8 @@
 #include <unistd.h>
 
-	/**
+	/*
 
-	 * master - Entry point
+	 * main - Entry point
 
 	 *
 
@@ -10,7 +10,7 @@
 
 	 */
 
-	int master(void)
+	int main(void)
 
 	{
 
