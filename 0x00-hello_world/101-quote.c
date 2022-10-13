@@ -1,6 +1,6 @@
 #include <unistd.h>
 
-	/*
+	/**
 
 	 * main - Entry point
 
@@ -18,11 +18,9 @@
 
 	
 
-
-
-		write(2, str1, 59);
+              write(2, str1, 59);
 
 		return (1);
 
-	}
+	}	
 
